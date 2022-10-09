@@ -9,8 +9,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="mnaiwrit52 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mnaiwrit52 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://www.linkedin.com/in/priyam-chakraborty-bb53481b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Priyam Chakraborty" height="30" width="40" /></a>
+<a href="https://twitter.com/CPriyam49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="CPriyam49" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_fiftyshadesofsarcasm_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_fiftyshadesofsarcasm_" height="30" width="40" /></a>
+</p>
 
 <br/>
 
@@ -28,8 +30,6 @@
 <img align="left" alt="Vim" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png" />
 <br />
 
-[instagram]: https://www.instagram.com/_fiftyshadesofsarcasm_/
-[linkedin]: https://www.linkedin.com/in/priyam-chakraborty-bb53481b4/
 <br />
 
 [![@cpriyam49's Holopin board](https://holopin.io/api/user/board?user=cpriyam49)](https://holopin.io/@cpriyam49)
