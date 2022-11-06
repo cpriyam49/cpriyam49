@@ -27,8 +27,12 @@
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Vim" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png" />
 <br />
+<br>
+<p align="center">
+   <img align="center" src="https://gpvc.arturio.dev/cpriyam49">
+<br><br>
 
-<br />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cpriyam49&theme=midnight-purple&show_icons=true&count_private=true">
 
 [![@cpriyam49's Holopin board](https://holopin.io/api/user/board?user=cpriyam49)](https://holopin.io/@cpriyam49)
 
