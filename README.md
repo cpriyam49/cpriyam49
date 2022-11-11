@@ -1,4 +1,4 @@
-### Hi there, I'm Priyam 👋
+### Hi there, I'm Priyam <img src="https://raw.githubusercontent.com/cpriyam49/cpriyam49/master/Hi.gif" width="25px" />
 
 ## I'm a CSE Undergraduate student!!
 
